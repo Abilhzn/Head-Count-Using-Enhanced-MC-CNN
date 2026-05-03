@@ -9,7 +9,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
-Proyek ini merupakan pengembangan model *Computer Vision* untuk memprediksi jumlah kerumunan orang (Crowd Counting) dalam sebuah gambar berbasis estimasi peta kepadatan (*density map*). Model ini dibangun dan dilatih khusus untuk ajang kompetisi **Penyisihan HOLOGY 8.0 2025 Data Mining**. 
+Proyek ini merupakan pengembangan model *Computer Vision* untuk memprediksi jumlah kerumunan orang (Crowd Counting) dalam sebuah gambar berbasis estimasi peta kepadatan (*density map*). 
 
 Pendekatan *density map* digunakan karena lebih tangguh dalam menangani kasus oklusi (objek saling menutupi) dan variasi skala kepala manusia dalam kerumunan dibandingkan dengan model deteksi objek tradisional (seperti YOLO atau SSD).
 
